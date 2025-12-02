@@ -1,5 +1,6 @@
 CAP 理论  
 <img width="500" height="303" alt="image" src="https://github.com/user-attachments/assets/28648e8a-6538-4ad9-a20c-88e3616f4236" />
+
 在一个分布式计算系统中，只能同时满足下列的两点:  
 一致性 ─ 每次访问都能获得最新数据但可能会收到错误响应  
 可用性 ─ 每次访问都能收到非错响应，但不保证获取到最新数据  
