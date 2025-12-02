@@ -1,5 +1,8 @@
 # 反向代理（web 服务器）
 
+<img width="421" height="161" alt="image" src="https://github.com/user-attachments/assets/75cd09c1-c3a1-49d0-a927-445b00b86eb5" />
+
+
 反向代理是一种可以集中地调用内部服务，并提供统一接口给公共客户的 web 服务器。来自客户端的请求先被反向代理服务器转发到可响应请求的服务器，然后代理再把服务器的响应结果返回给客户端
 
 带来的好处包括：
